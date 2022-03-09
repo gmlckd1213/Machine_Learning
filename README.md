@@ -14,7 +14,7 @@
 ## 기본알고리즘
 - [Linear Regression](https://github.com/gmlckd1213/Machine_Learning/tree/main/Linear_Regression)
 - K-Nearest Neighbor
-- Decision Tree
+- [Decision Tree](https://github.com/gmlckd1213/Machine_Learning/blob/main/Decision_Tree)
 - Logistic Regression
 - Support Vector Machine
 
