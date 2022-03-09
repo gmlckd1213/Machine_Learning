@@ -132,6 +132,37 @@
 - 정분류율이라고 부르기도 함
 - 전체 중에서 TN + TP 비율
 - 가장 직관적으로 모델 성능을 확인할수 있는 평가 지표
-```math
-a^2+b^2=c^2
-```
+<img width="342" alt="스크린샷 2022-03-09 오후 9 02 25" src="https://user-images.githubusercontent.com/63540952/157438279-ae9fad96-95ca-4f2e-978b-f6cc4fad3804.png">
+
+### 정밀도(Precision)
+- Positive로 예측한 것 중 실제 Positive 비율
+- ex) 암이라 예측한 환자 중에서 실제 암 환자 비율
+- 정밀도가 낮으면?
+  - 암이 아닌데 암이라 했으니 불필요한 치료발생
+<img width="228" alt="스크린샷 2022-03-09 오후 9 04 23" src="https://user-images.githubusercontent.com/63540952/157438589-d62a4c80-5fff-483b-a729-271c8f8295fe.png">
+
+### 민감도(Recall)
+- 실제 Positive 중에서 Positive로 예측한 비율
+- 민감도(Sensitity)라고 부르는 경우가 많음
+- ex) 실제 암인 환자 중에서 암이라고 예측한 환자의 비율
+- 재현율이 낮으면?
+  - 암인 사람에게 암이아니라 했으니 심각한 결과 초래
+
+<img width="204" alt="스크린샷 2022-03-09 오후 9 16 25" src="https://user-images.githubusercontent.com/63540952/157440361-6461f9eb-d5bd-421d-8e1a-c27775cbfdb5.png">
+
+### 특이도(Specificity)
+- 실제 Negative 중에서 Negative로 예측한 비율
+- ex) 실제 암이 아닌 환자 중에서 암이 아니라고 예측한 경우
+- 특이도가 낮으면?
+  - 암이 아닌데 암이라 했으니 불필요한 치료 발생
+
+<img width="250" alt="스크린샷 2022-03-09 오후 9 19 18" src="https://user-images.githubusercontent.com/63540952/157440712-a5eae095-377b-448d-9154-74f1015ceb93.png">
+
+## F1-Score
+- 정밀도와 재현율의 조화평균
+- 분자가 같지만 부모가 다를 경우 조화평균이 정확
+- 정밀도와 재현율이 적적할게 요규 될 떄 사용
+
+<img width="646" alt="스크린샷 2022-03-09 오후 9 25 04" src="https://user-images.githubusercontent.com/63540952/157441479-af8a3933-485e-4427-8106-8528ef2fd008.png">
+
+
