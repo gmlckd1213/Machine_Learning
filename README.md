@@ -133,4 +133,4 @@
 - 전체 중에서 TN + TP 비율
 - 가장 직관적으로 모델 성능을 확인할수 있는 평가 지표
 
-$$Accyracy = TN+TP/(TN+FP+FN+TP)$$
+$$ Accyracy = TN+TP/(TN+FP+FN+TP) $$
