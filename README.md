@@ -118,3 +118,14 @@
 - 단순히 오차 절대값, 오차 제곱으로 계산되는 MAE, MSE는 함수 사용시 실제값, 예측값 위치가 바뀌어도 되지만 -> 비추
 - MAPE, R2 Score는 실제값 예측값 순서가 바뀌면 안됌.
 
+## 혼동 행렬
+- Confusion Matrix(오분류표)
+
+<img width="382" alt="스크린샷 2022-03-09 오후 8 48 26" src="https://user-images.githubusercontent.com/63540952/157436149-9ef60931-618c-4abd-bf98-dac196ad67ea.png">
+
+- TN(True Negative, 진음성) : 음성으로 잘 예측한 것 (음성->음성)
+- FP(False Positive, 위양성) : 양성으로 잘 못 예측한 것(음성->양성)
+- FN(False Negative, 위음성) : 음성으로 잘 못 예측한 것(양성->음성)
+- TP(True Positive, 진양성) : 양성으로 잘 예측한 것(양성->양성)
+
+
