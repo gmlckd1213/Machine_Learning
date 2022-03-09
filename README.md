@@ -166,3 +166,5 @@
 <img width="646" alt="스크린샷 2022-03-09 오후 9 25 04" src="https://user-images.githubusercontent.com/63540952/157441479-af8a3933-485e-4427-8106-8528ef2fd008.png">
 
 
+*회귀 모델은 MAE, R2_score*<br>
+*분류 모델은 confusion_matrix, classification_report*
