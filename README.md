@@ -93,3 +93,17 @@
   * 예측 값과 실제 값에 차이(오차)가 존재
   * 예측 값이 실제 값에 가까울 수록 좋은 모델
   * 예측한 값과 실제 값의 차이(오차)로 모델 성능평가
+
+<img width="725" alt="스크린샷 2022-03-09 오후 7 47 32" src="https://user-images.githubusercontent.com/63540952/157426812-d338dcb8-4dbd-492d-ab16-84d928523fca.png">
+
+<img width="710" alt="스크린샷 2022-03-09 오후 7 56 48" src="https://user-images.githubusercontent.com/63540952/157428232-3cf266b7-c33b-4cb9-8e83-a7386b9e2415.png">
+
+- SST(Sum Sqaured Total(전체오차)) : 최소한 평균보다는 성능이 좋아야 하니, 우리에게 허용된 오차
+- SSR(Sum Squared Regression) : 전체 오차 중에서 회귀식이 잡아낸 오차
+- SSE(Sum Squared Error) : 전체 오차 중에서 회귀식이 여전히 잡아내지 못한 오차
+
+#### 결정계수(R-Squared)
+
+- 얼마나 잘했는가?
+- 전체 오차 중에서 
+
