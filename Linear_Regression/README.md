@@ -29,7 +29,6 @@ b = 절편
 
 모델 학습 후 회귀 계수 확인
 ```
-
 print(model.coef_)
 print(model.intercept_)
 #다중일때 회귀계수 확인
