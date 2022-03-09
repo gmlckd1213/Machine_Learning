@@ -12,7 +12,7 @@
 - 출력 값에 연속성이 있는지 확인하면 분류와 회귀 문제를 쉬게 구분 가능
 
 ## 기본알고리즘
-- Linear Regression
+- [Linear Regression](https://github.com/gmlckd1213/Machine_Learning/tree/main/Linear_Regression)
 - K-Nearest Neighbor
 - Decision Tree
 - Logistic Regression
