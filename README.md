@@ -128,4 +128,9 @@
 - FN(False Negative, 위음성) : 음성으로 잘 못 예측한 것(양성->음성)
 - TP(True Positive, 진양성) : 양성으로 잘 예측한 것(양성->양성)
 
+### 정확도(Accuracy)
+- 정분류율이라고 부르기도 함
+- 전체 중에서 TN + TP 비율
+- 가장 직관적으로 모델 성능을 확인할수 있는 평가 지표
 
+$$Accyracy = TN+TP/(TN+FP+FN+TP)$$
