@@ -11,6 +11,13 @@
 - 연속적인 숫자는 두 값 사이의 중간 값이 충분히 존재 할 수 있는 숫자를 의미
 - 출력 값에 연속성이 있는지 확인하면 분류와 회귀 문제를 쉬게 구분 가능
 
+## 기본알고리즘
+- Linear Regression
+- K-Nearest Neighbor
+- Decision Tree
+- Logistic Regression
+- Support Vector Machine
+
 
 |회귀 문제|분류 문제|
 |-|-|
