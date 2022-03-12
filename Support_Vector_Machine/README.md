@@ -63,4 +63,8 @@
 ## C, gamma
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/63540952/158009289-03bab9fb-8c7c-414e-8a94-27ea8f3f90aa.png">
 
-
+- C가 커질수록 이상치 존재 가능성을 낮게 봄
+- Gamma는 결정 경계의 곡률을 조정한다고 말할 수도 있음
+- SVM 성능을 높이기 위해 적절한 C, gamma 설정이 필요
+- C, gamma를 개별적으로 고민하기 보다는 두 값을 적절히 조합하는 방안 검토 필요
+- 두 값이 커질수록 알고리즘의 복잡도는 증가
