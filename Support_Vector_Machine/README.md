@@ -2,7 +2,7 @@
 
 - 분류를 위한 기준선, 즉 결정 경계선(Decision Boundary)을 찾는 알고리즘
 - SVM 성능을 높이기 위해 정규화 작업이 필요
-- 분류 문제와 회귀 문ㄴ제 모두에 사용 가능(SVC, SVR)
+- 분류 문제와 회귀 문제 모두에 사용 가능(SVC, SVR)
 - 본 학습에서는 분류 문제를 위한 SVM 관점에서 설명함
 
 <img width="297" alt="image" src="https://user-images.githubusercontent.com/63540952/158008113-a8e6da2d-0902-44b5-9358-a060c46cb610.png">
