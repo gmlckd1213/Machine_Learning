@@ -16,7 +16,7 @@
 - [K-Nearest Neighbor](https://github.com/gmlckd1213/Machine_Learning/tree/main/K-Nearest_Neighbor)
 - [Decision Tree](https://github.com/gmlckd1213/Machine_Learning/blob/main/Decision_Tree)
 - [Logistic Regression](https://github.com/gmlckd1213/Machine_Learning/tree/main/Logistic_Regression)
-- Support Vector Machine
+- [Support Vector Machine](https://github.com/gmlckd1213/Machine_Learning/tree/main/Support_Vector_Machine)
 
 
 |회귀 문제|분류 문제|
