@@ -18,6 +18,8 @@
 - [Logistic Regression](https://github.com/gmlckd1213/Machine_Learning/tree/main/Logistic_Regression)
 - [Support Vector Machine](https://github.com/gmlckd1213/Machine_Learning/tree/main/Support_Vector_Machine)
 
+## 검증방식
+- [K Fold Cross_Validation](https://github.com/gmlckd1213/Machine_Learning/tree/main/K-Fold_Cross_Validation)
 
 |회귀 문제|분류 문제|
 |-|-|
