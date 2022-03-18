@@ -113,12 +113,21 @@
 - SSR(Sum Squared Regression) : 전체 오차 중에서 회귀식이 잡아낸 오차
 - SSE(Sum Squared Error) : 전체 오차 중에서 회귀식이 여전히 잡아내지 못한 오차
 
+
+#### 평가지표
+- r2
+- accuracy
+- f1_score
+- recall
+- precision
+
 #### 결정계수(R-Squared)
 
 - 얼마나 잘했는가?
 - 전체 오차 중에서 회귀식이 잡아낸 오차 비율(일반적으로 0~1사이)
 - r제곱이 1이면 MSE=0 모델이 데이터를 완벽하게 학습한 것 
 - 클수록 좋음!
+
 
 
 ## 회귀 정리
